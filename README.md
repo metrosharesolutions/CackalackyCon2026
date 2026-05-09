@@ -212,6 +212,8 @@ Outputs the processed stereo audio
 
 Simple. Direct. Clean.
 
+g++ main.cpp -o pedal_test -lasound -llua5.4
+
 ---
 
 ## Effect File Naming
